@@ -14,3 +14,6 @@ I am Graham Seaman, some interesting facts about me include that I enjoy snowboa
 
 ## Member 3
 I am Liam Hodgins. I am in my last year of Computer science. I like to play video games. I also play hockey.
+
+## Member 4
+I am Jordan McCaskill. I can does computers gud. I also like volleyball.
