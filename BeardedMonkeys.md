@@ -1,4 +1,4 @@
-# We are BeardedMokeys LOL
+# We are BeardedMonkeys LOL
 
 ## Members
 - Hafiz Temuri
