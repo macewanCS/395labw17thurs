@@ -15,3 +15,7 @@ semester: CMPT 395, CMPT 391, CMPT 350.
 
 ### Jeff Hofer
 My name is Jefe, I like spending all my money on trash cars and smurfing silver 1 games in CS:GO.
+
+### Steve
+I am the merge god
+
